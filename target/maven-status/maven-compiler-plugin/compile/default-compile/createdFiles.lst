@@ -1,0 +1,7 @@
+impl\AccidentManager.class
+rest\AccidentManagerController.class
+impl\AccidentInformation.class
+impl\BasicInfo.class
+impl\DetailInfo.class
+impl\Accident.class
+rest\RestServiceApplication.class
